@@ -70,10 +70,14 @@ Generate survival predictions for test data
 
 Deploy the model (Optional)
 
+
 📊 Results
+
 Model	Accuracy	Precision	Recall	F1-Score
 Logistic Regression	80.12%	78.5%	76.3%	77.4%
 Random Forest	84.56%	82.9%	80.1%	81.5%
+
+
 🔧 Technologies Used
 Python (3.x)
 
@@ -86,6 +90,7 @@ Matplotlib, Seaborn
 XGBoost (Optional)
 
 📚 References
+
 Kaggle Titanic Competition
 
 Scikit-Learn Documentation
@@ -93,6 +98,7 @@ Scikit-Learn Documentation
 Matplotlib Documentation
 
 💡 Future Scope
+
 Improve feature engineering with domain-specific insights
 
 Experiment with deep learning models (TensorFlow, Keras)
@@ -100,12 +106,14 @@ Experiment with deep learning models (TensorFlow, Keras)
 Deploy the solution as a web app using Flask or Streamlit
 
 🤝 Contributions
+
 Contributions, suggestions, and feedback are always welcome! Feel free to fork this repository and make improvements.
 
 📧 Contact
+
 If you have any questions, please reach out to:
 Rajan Kumar Gupta
 
-Email: [Your Email Address]
+Email: [rajang1201@gmail.com]
 
 GitHub: [Your GitHub Profile]
