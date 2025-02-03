@@ -1,4 +1,5 @@
 Titanic Survival Prediction Project
+
 🚀 Project Overview
 This project aims to predict passenger survival on the Titanic using machine learning techniques. The Titanic dataset, available on Kaggle, is a well-known dataset that contains information about passengers aboard the Titanic. The objective is to build a model that accurately predicts whether a passenger survived or not based on features such as age, sex, passenger class, and other relevant details.
 
