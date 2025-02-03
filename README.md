@@ -19,7 +19,9 @@ Fare	Fare paid for the ticket
 Cabin	Cabin number
 Embarked	Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 Survived	Survival status (0 = Did not survive, 1 = Survived)
+
 🔍 Project Workflow
+
 1⃣ Data Preprocessing
 Handle missing values (especially for Age, Cabin, and Embarked)
 
